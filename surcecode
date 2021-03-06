@@ -1,0 +1,2 @@
+const surcecode = require("hack.js")
+var surcecode = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"//My youtube tutorial video :)
